@@ -45,6 +45,8 @@ middle of it.
 - Expect the **left and right sides to be cut off** on phones.
 - Don't put text in the banner; your name and tagline are already there.
 
+![How a banner shows on the partner page, on desktop and on a phone](images/partners-banner.png)
+
 ### Photos
 
 Photos show as a featured image with thumbnails under it, and open full
@@ -54,4 +56,35 @@ look best.
 
 ## Mentioning Indy Center
 
-_This section is being written._
+We're glad when partners tell their audience about us. A few guidelines keep
+it clear for everyone.
+
+### What to say
+
+- "**<Your name> is an Indy Center partner.**"
+- "**Partnered with Indy Center.**"
+- Write the name as two words, **Indy Center**. See
+  [Name and terms](name-and-terms.md).
+- Link to **your partner page** (`flyindycenter.com/partners/<your-page>`) or
+  to **[flyindycenter.com](https://flyindycenter.com)**.
+
+### What to show
+
+- The **partner badge**, made for exactly this. <!-- Image added once the badge is chosen. -->
+- Or the **logo** or **mark**, as they are. See [Marks](marks.md).
+- Download them from [Downloads](downloads.md).
+
+Please don't edit them, put them in your own logo, or use a
+[special mark](marks.md#special-marks) without the brand owner's OK.
+
+### Keep it accurate
+
+- The partnership is between you and Indy Center. Don't suggest that Indy
+  Center endorses everything you make, or that **VATSIM or VATUSA** is part
+  of it.
+- If you offer a member perk, describe it as **for Indy Center members**.
+
+### Questions
+
+Ask the brand owner: the ATM, at
+[atm@flyindycenter.com](mailto:atm@flyindycenter.com).
