@@ -31,6 +31,7 @@ See [Marks](marks.md).
 - VATSIM IDs (CIDs) and ratings are set in a **monospaced** font.
 - The logo's name is drawn as part of the logo. Don't retype it.
 
-For graphics where you choose the font, **Lato** (free from Google Fonts) is
-close to the logo's lettering: Lato Black for headings, Lato Regular or Light
-for text.
+The logo's name is set in **Source Sans 3**: "Indy" in Black, "Center" in
+Light. It's free from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+3).
+For graphics where you choose the font, use it: Bold or Black for headings,
+Regular or Light for text.
