@@ -43,7 +43,15 @@ A square profile picture for any platform.
 
 ## Partner badge
 
-For partners to show they're an Indy Center partner. Coming soon.
+For partners to show they're an Indy Center partner. See
+[Partners](partners.md#what-to-show) for which to use where.
+
+| File | For | PNG | SVG |
+| --- | --- | --- | --- |
+| Partner badge, white | Dark backgrounds | [PNG, 1937×400](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partner-badge-white.png) | [SVG](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partner-badge-white.svg) |
+| Partner badge, black | Light backgrounds | [PNG, 1937×400](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partner-badge-black.png) | [SVG](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partner-badge-black.svg) |
+| Partnered with, white | Dark backgrounds | [PNG, 1564×632](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partnered-with-white.png) | [SVG](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partnered-with-white.svg) |
+| Partnered with, black | Light backgrounds | [PNG, 1564×632](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partnered-with-black.png) | [SVG](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/partner/indy-center-partnered-with-black.svg) |
 
 ## Special marks
 

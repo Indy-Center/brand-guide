@@ -70,7 +70,13 @@ it clear for everyone.
 
 ### What to show
 
-- The **partner badge**, made for exactly this. <!-- Image added once the badge is chosen. -->
+- The **partner badge**, made for exactly this. It comes in two versions:
+  the compact **partner badge** for overlays, panels and store pages, and
+  **partnered with** for larger spaces such as credits or a website footer.
+  Each comes in white and black.
+
+  ![The partner badge and "partnered with", in white on dark and black on light](images/partners-badges.png)
+
 - Or the **logo** or **mark**, as they are. See [Marks](marks.md).
 - Download them from [Downloads](downloads.md).
 

@@ -35,8 +35,10 @@ Neither of the last two is a name for the community.
 - **Logo**: the mark with the name beside it. White or black.
 - **Special mark**: a version of the mark for an occasion, such as Pride or
   the Kentucky Derby, in its own colors. Used only around its occasion.
-- **Partner badge**: the mark with words saying the holder is an Indy Center
-  partner, for partners to use on their own channels.
+- **Partner badge**: the mark or logo with words saying the holder is an
+  Indy Center partner, for partners to use on their own channels. It comes
+  in two versions: the compact "Indy Center partner" badge and "partnered
+  with".
 - **Event banner**: the image for one event, posted to VATSIM, VATUSA and
   Discord.
 
