@@ -1,12 +1,9 @@
 # Color and type
 
-> **This page is a placeholder.** Indy Center hasn't chosen brand colors or
-> fonts yet. Until it does, this page describes what flyindycenter.com uses
-> today, so new material can match it.
+## Colors
 
-## Colors in use today
-
-The site is dark, with a sky-blue accent.
+Indy Center is dark, with a sky-blue accent: the same colors
+flyindycenter.com and the other Indy Center apps use.
 
 | Name | Hex | Used for |
 | --- | --- | --- |
@@ -23,9 +20,9 @@ The site is dark, with a sky-blue accent.
 The logo and mark stay **white or black** whatever the colors around them.
 See [Marks](marks.md).
 
-## Type in use today
+## Type
 
-- The site uses each device's **system font** (the default sans-serif).
+- The websites use each device's **system font** (the default sans-serif).
 - Headings are set **bold or semibold**; small section labels in **capitals
   with wide letter spacing**.
 - VATSIM IDs (CIDs) and ratings are set in a **monospaced** font.
