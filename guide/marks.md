@@ -69,7 +69,11 @@ design.
 
 Special marks are in [`special/`](../special/), one folder per occasion.
 
-<!-- Each special mark gets a row here when it's added: name, occasion, when to use it. -->
+| Special mark | When to use it |
+| --- | --- |
+| <img src="../special/pride/indy-center-pride-avatar.png" width="96" alt="The Pride mark: the tower in rainbow stripes"> **Pride** | Pride month (June), and Pride-related events at any time of year |
+
+<!-- Each new special mark gets a row here: name, occasion, when to use it. -->
 
 ## Questions
 

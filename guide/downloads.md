@@ -55,8 +55,13 @@ For partners to show they're an Indy Center partner. See
 
 ## Special marks
 
-For occasions such as Pride and the Kentucky Derby. Each is listed on the
-[Marks](marks.md#special-marks) page with when to use it. Coming soon.
+For occasions. Each is listed on the [Marks](marks.md#special-marks) page
+with when to use it.
+
+| File | For | PNG | SVG |
+| --- | --- | --- | --- |
+| Pride mark | Pride month and Pride-related events | [PNG, 1024×1024](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/special/pride/indy-center-pride-mark.png) | [SVG](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/special/pride/indy-center-pride-mark.svg) |
+| Pride avatar | Profile pictures during Pride | [PNG, 1024×1024](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/special/pride/indy-center-pride-avatar.png) | |
 
 ## For websites
 
