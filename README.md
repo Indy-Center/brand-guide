@@ -11,6 +11,15 @@ and on their own channels.
 The guide is short on purpose. Where it doesn't answer a question, ask the
 brand owner: the ATM, at [atm@flyindycenter.com](mailto:atm@flyindycenter.com).
 
+## Quick downloads
+
+- [Logo, white](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/logo/indy-center-logo-white.png), for dark backgrounds
+- [Logo, black](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/logo/indy-center-logo-black.png), for light backgrounds
+- [Mark, white](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/mark/indy-center-mark-white.png), the tower on its own
+- [Avatar](https://raw.githubusercontent.com/Indy-Center/brand-guide/main/avatar/indy-center-avatar.png), for profile pictures
+
+Everything else is on the [Downloads](guide/downloads.md) page.
+
 ## The guide
 
 | Page | What it covers |
