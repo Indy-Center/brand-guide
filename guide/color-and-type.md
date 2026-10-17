@@ -7,7 +7,7 @@ flyindycenter.com and the other Indy Center apps use.
 
 | Name | Hex | Used for |
 | --- | --- | --- |
-| Night | `#070F13` | The near-black in the original logo artwork; avatar and link-preview backgrounds |
+| Night | `#070F13` | The "black" of the black logo and mark; avatar and link-preview backgrounds |
 | Page | `#111827` | Page background |
 | Surface | `#1E293B` | Cards, panels and the header |
 | Border | `#334155` | Lines around cards and tables |
