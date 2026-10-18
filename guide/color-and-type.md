@@ -57,6 +57,7 @@ A role is what a color is for. Its value depends on the scheme.
 | `destructive` | Errors and actions that delete | `#B91C1C` | `#F87171` |
 | `success` | Success | `#15803D` | `#4ADE80` |
 | `warning` | Warnings | `#A16207` | `#FACC15` |
+| `info` | Information and notices | `#0369A1` | `#38BDF8` |
 
 The header, footer and home page hero always use the **Dark** column.
 
