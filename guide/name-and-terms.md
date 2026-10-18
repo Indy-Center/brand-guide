@@ -50,8 +50,7 @@ These are the words the [partners page](https://flyindycenter.com/partners)
 uses.
 
 - **Partner**: a developer, creator or group that Indy Center has a
-  partnership with and shows on the partners page. Not "sponsor" or
-  "affiliate".
+  partnership with and shows on the partners page.
 - **Partner category**: the group a partner is listed under, such as
   Developer, Creator or Community.
 - **Tagline**: a partner's one-line summary, shown under its name.

@@ -5,16 +5,13 @@ description, so every event looks like Indy Center wherever it's posted.
 
 ## Where events go
 
-Each event is posted to three places, with the same banner and the same
+Events are often posted to four places, with the same banner and the same
 text, trimmed to fit:
 
+- **Community Site** (Our main hub of community information)
+- **Discord** (a scheduled event in the Indy Center server)
 - **VATSIM** (my.vatsim.net events)
 - **VATUSA** (the division's event calendar)
-- **Discord** (a scheduled event in the Indy Center server)
-
-VATUSA's events policy (DP003) asks for the event to be final **4 weeks**
-ahead and on VATSIM **14 days** ahead. Check the current policy before you
-plan.
 
 ## The event banner
 
@@ -44,7 +41,7 @@ Start from the template:
 - The **logo**, inside the band. Use white on dark images and black on light
   ones (see [Marks](marks.md)).
 
-For an event **co-hosted** with another ARTCC or a partner, show both logos
+For an event **co-hosted** with another ARTCC, VATSIM/VATUSA, or a partner, show both logos
 at the same height, side by side.
 
 An event that starts at **midnight Zulu** may be written as starting at
@@ -69,9 +66,7 @@ Use the same text on every platform, in this order:
 5. **Links.** Routes, charts, booking, the event on the other platforms.
 
 If there's more to say, such as a partner involved, a giveaway, or other
-news, add a short note at the end.
-
-Event posts don't need the disclaimer.
+news, add a short note at the end. Tailoring this note based on platform audience is acceptable.
 
 ### Text limits
 
