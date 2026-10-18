@@ -1,0 +1,23 @@
+name: Check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Links and images between the guide's own files. Offline, because the download links point
+      # at main and a new file only exists there after merging.
+      - name: Links and images resolve
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --offline --include-fragments --no-progress './**/*.md'
+          fail: true
+
+      - name: SVG masks are white
+        run: python3 .github/scripts/check_svg_masks.py
