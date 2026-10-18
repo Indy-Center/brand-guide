@@ -54,6 +54,23 @@ screen. The featured image is shown at 4:3 and thumbnails as squares, so
 keep the subject near the middle. Landscape images of 1600 px wide or more
 look best.
 
+### What your page looks like
+
+Your card on the [partners page](https://flyindycenter.com/partners), and
+your own page, shown here for a made-up example partner. Signed-in members
+see the member perk; everyone else is invited to join Indy Center instead.
+
+![The example partner's card on the partners page, on a laptop](images/partners-list-desktop.png)
+
+![The example partner's page on a laptop: banner with logo, name and tagline, the calls to action and social links, About, the member perk and photos](images/partners-page-desktop.png)
+
+On a phone, the card and page stack into one column, and the member perk
+moves above About.
+
+| The card | The page |
+| --- | --- |
+| <img src="images/partners-list-mobile.png" width="300" alt="The example partner's card on a phone"> | <img src="images/partners-page-mobile.png" width="300" alt="The example partner's page on a phone"> |
+
 ## Mentioning Indy Center
 
 We're glad when partners tell their audience about us. A few guidelines keep
