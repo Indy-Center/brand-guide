@@ -91,20 +91,23 @@ The same type rules apply to the apps and to graphics, posts and banners.
 
 | Text | Font | Weight |
 | --- | --- | --- |
-| Headings, including panel and card titles | **Source Sans 3**, the logo's font | Semibold or Bold |
-| Everything else: body text, buttons, forms, tables | The **system font**, each device's own sans-serif | Regular; Medium or Semibold for emphasis |
-| VATSIM IDs (CIDs) and ratings | The system **monospaced** font | Regular |
+| Headings, including panel and card titles | Source Sans 3, the logo's font | Semibold or Bold |
+| Everything else: body text, buttons, forms, tables | The system font, each device's own sans-serif | Regular; Medium or Semibold for emphasis |
+| VATSIM IDs (CIDs) and ratings | The system monospaced font | Regular |
 
 Source Sans 3 is free from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+3).
 The system font is San Francisco on Apple devices, Segoe UI on Windows and
 Roboto on Android. In a graphic, where there's no device to follow, use
 one of those, or Arial or Helvetica.
 
+On graphics and banners, a big title can also be Source Sans 3 Black, the
+weight of "Indy" in the logo.
+
 Small section labels are set in **capitals with wide letter spacing**,
 Semibold.
 
-CIDs and ratings are monospaced everywhere they appear, so digits line up
-in tables and a 0 never looks like an O.
+Monospaced CIDs and ratings line up in tables, and a 0 never looks like an
+O.
 
 ### Sizes
 
@@ -126,22 +129,23 @@ tapped.
 ### For developers
 
 ```css
---font-heading: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
---font-sans: ui-sans-serif, system-ui, sans-serif;
+--font-heading: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+--font-sans: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 ```
 
 Self-host Source Sans 3 as one WOFF2 file: the variable font's Latin
 subset, which holds every weight in about 29 KB. Upright only; no italic
 file is needed. Load it with `font-display: swap`, so text shows in the
-system font until it arrives. Set CIDs and ratings with `font-mono` and
-`font-variant-numeric: tabular-nums`.
+system font until it arrives. The system font costs nothing to load. Add
+`font-variant-numeric: tabular-nums` to `font-mono`.
 
 ### The logo's name
 
-The logo's name is drawn as part of the logo, in Source Sans 3 ("Indy" in
-Black, "Center" in Light). Use the logo file; don't retype the name. See
-[Marks](marks.md).
+The logo's name is drawn as part of the logo. Use the logo file; don't
+retype it. See [Marks](marks.md).
 
-Type is a rule, like color: change fonts or sizes only with the brand
-owner's OK.
+### Type is a rule
+
+Fonts and sizes are rules, like colors: change them only with the brand
+owner's OK (the ATM, at [atm@flyindycenter.com](mailto:atm@flyindycenter.com)).
