@@ -85,13 +85,63 @@ white on the dark header and footer, black on light content. See
 
 ## Type
 
-- The websites use each device's **system font** (the default sans-serif).
-- Headings are set **bold or semibold**; small section labels in **capitals
-  with wide letter spacing**.
-- VATSIM IDs (CIDs) and ratings are set in a **monospaced** font.
-- The logo's name is drawn as part of the logo. Don't retype it.
+The same type rules apply to the apps and to graphics, posts and banners.
 
-The logo's name is set in **Source Sans 3**: "Indy" in Black, "Center" in
-Light. It's free from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+3).
-For graphics where you choose the font, use it: Bold or Black for headings,
-Regular or Light for text.
+### Fonts
+
+| Text | Font | Weight |
+| --- | --- | --- |
+| Headings, including panel and card titles | **Source Sans 3**, the logo's font | Semibold or Bold |
+| Everything else: body text, buttons, forms, tables | The **system font**, each device's own sans-serif | Regular; Medium or Semibold for emphasis |
+| VATSIM IDs (CIDs) and ratings | The system **monospaced** font | Regular |
+
+Source Sans 3 is free from [Google Fonts](https://fonts.google.com/specimen/Source+Sans+3).
+The system font is San Francisco on Apple devices, Segoe UI on Windows and
+Roboto on Android. In a graphic, where there's no device to follow, use
+one of those, or Arial or Helvetica.
+
+Small section labels are set in **capitals with wide letter spacing**,
+Semibold.
+
+CIDs and ratings are monospaced everywhere they appear, so digits line up
+in tables and a 0 never looks like an O.
+
+### Sizes
+
+The apps use [Tailwind's default sizes](https://tailwindcss.com/docs/font-size),
+so a size class means the same in every app.
+
+| Tailwind class | Size | Used for |
+| --- | --- | --- |
+| `text-xs` | 12px | Fine print, badges |
+| `text-sm` | 14px | Captions, table text, labels |
+| `text-base` | 16px | Body text |
+| `text-lg` to `text-2xl` | 18–24px | Section and panel headings |
+| `text-3xl` | 30px | Page titles |
+| `text-4xl` to `text-6xl` | 36–60px | Hero and banner titles |
+
+On phones, form fields are at least 16px, or iOS zooms in when they're
+tapped.
+
+### For developers
+
+```css
+--font-heading: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
+--font-sans: ui-sans-serif, system-ui, sans-serif;
+--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+```
+
+Self-host Source Sans 3 as one WOFF2 file: the variable font's Latin
+subset, which holds every weight in about 29 KB. Upright only; no italic
+file is needed. Load it with `font-display: swap`, so text shows in the
+system font until it arrives. Set CIDs and ratings with `font-mono` and
+`font-variant-numeric: tabular-nums`.
+
+### The logo's name
+
+The logo's name is drawn as part of the logo, in Source Sans 3 ("Indy" in
+Black, "Center" in Light). Use the logo file; don't retype the name. See
+[Marks](marks.md).
+
+Type is a rule, like color: change fonts or sizes only with the brand
+owner's OK.
