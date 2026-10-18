@@ -27,7 +27,7 @@ These never change between schemes.
 | Name | Hex | Used for |
 | --- | --- | --- |
 | Night | `#070F13` | The "black" of the black logo and mark; avatar and link-preview backgrounds |
-| Sky | `#0369A1` | The accent: main buttons, the current page, links on light backgrounds |
+| Sky | `#0369A1` | The accent: main buttons, the current page number, links on light backgrounds |
 | White | `#FFFFFF` | The white logo and mark; text on Sky |
 
 > **Buttons have changed.** Main buttons are now `#0369A1`, with
@@ -49,7 +49,7 @@ A role is what a color is for. Its value depends on the scheme.
 | `foreground-soft` | Body text | `#334155` | `#D1D5DB` |
 | `muted-foreground` | Captions and fine print | `#475569` | `#9CA3AF` |
 | `placeholder` | Placeholder text in inputs | `#475569` | `#D1D5DB` |
-| `primary` | Main buttons, the current page | `#0369A1` | `#0369A1` |
+| `primary` | Main buttons, the current page number | `#0369A1` | `#0369A1` |
 | `primary-hover` | Main buttons on hover | `#075985` | `#075985` |
 | `primary-foreground` | Text on main buttons | `#FFFFFF` | `#FFFFFF` |
 | `link` | Links | `#0369A1` | `#38BDF8` |
