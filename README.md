@@ -8,6 +8,10 @@ members making graphics and posts, the events team, and our partners, both
 on their page at [flyindycenter.com/partners](https://flyindycenter.com/partners)
 and on their own channels.
 
+Building an Indy Center app? Use Indy Centerline, our design system: its
+rules are on [tech.flyindycenter.com/design](https://tech.flyindycenter.com/design/)
+and its components on [centerline.flyindycenter.com](https://centerline.flyindycenter.com).
+
 The guide is short on purpose. Where it doesn't answer a question, ask the
 brand owner: the ATM, at [atm@flyindycenter.com](mailto:atm@flyindycenter.com).
 
