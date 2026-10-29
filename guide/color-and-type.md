@@ -1,5 +1,11 @@
 # Color and type
 
+> **Building an app?** Get these colors, roles and fonts from
+> `@indy-center/centerline-tokens`, part of Indy Centerline, our design
+> system, instead of copying them. Its rules are on
+> [tech.flyindycenter.com/design](https://tech.flyindycenter.com/design/)
+> and its components on [centerline.flyindycenter.com](https://centerline.flyindycenter.com).
+
 ## Colors
 
 Indy Center comes in two **color schemes**, light and dark, with a
@@ -127,6 +133,9 @@ On phones, form fields are at least 16px, or iOS zooms in when they're
 tapped.
 
 ### For developers
+
+`@indy-center/centerline-tokens` already holds these font stacks and the
+self-hosted Source Sans 3. If you're not using the package:
 
 ```css
 --font-heading: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
